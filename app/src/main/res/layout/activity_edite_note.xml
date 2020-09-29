@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:gravity="top"
+            android:layout_marginTop="5dp"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/input_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name_your_situation"
+            android:inputType="textCapSentences" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/emoji"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/emogi_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:hint="@string/describe_situation_using_emojies"
+            android:inputType="textCapSentences" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/situation"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/situation_ed"
+            android:layout_width="match_parent"
+            android:layout_height="172dp"
+            android:gravity="top"
+            android:hint="@string/descride_what_s_happend"
+            android:inputType="textCapSentences|textMultiLine" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/consequences"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/consequences_edit"
+            android:layout_width="match_parent"
+            android:layout_height="124dp"
+            android:gravity="top"
+            android:hint="@string/what_happend_after_that"
+            android:inputType="textCapSentences|textMultiLine" />
+
+    </LinearLayout>
+
+</RelativeLayout>
