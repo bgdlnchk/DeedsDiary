@@ -16,6 +16,7 @@ This application was made for people, whose want to conrol their deeds (actions,
 <li>RateThisApp&nbsp;Window</li>
 <li>NightMode</li>
 <li>Password</li>
+  <li>Clean Code</li>
 <li>ShareButton</li>
 <li>Support about using and reskinning</li>
 </ul>
