@@ -1,6 +1,6 @@
 # DeedsDiary
-<p><img src="https://www.codester.com/static/uploads/items/000/011/11688/preview-xl.jpg"/></p>
-<p><https://i.pinimg.com/originals/5c/6f/6d/5c6f6dd42189950329ccab8aadc5e135.jpg"/></p>
+<p><img src="https://i.pinimg.com/originals/5c/6f/6d/5c6f6dd42189950329ccab8aadc5e135.jpg"/></p>
+
 
 
 <h2>Deeds Diary</h2>
