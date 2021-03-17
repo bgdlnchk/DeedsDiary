@@ -2,7 +2,7 @@ package com.my.admin.myfails;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class LoadingActivity extends AppCompatActivity {
