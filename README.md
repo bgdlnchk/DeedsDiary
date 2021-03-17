@@ -1,25 +1,27 @@
 # DeedsDiary
-<p><img src="https://i.pinimg.com/originals/5c/6f/6d/5c6f6dd42189950329ccab8aadc5e135.jpg"/></p>
+<p><img src="https://i.pinimg.com/originals/5c/6f/6d/5c6f6dd42189950329ccab8aadc5e135.jpg" /></p>
 
+<h2>Description</h2>
 
+This application was made for people, whose want to conrol their deeds (actions, that they do). They can write about their deeds or situations and make conclusion about them. Moreover, users can review through the time all deeds, which they wrote and smile or cry about them.
 
-<h2>Deeds Diary</h2>
-This application was made for people, whose want to conrol their deeds (actions, that they do). They can write about their deeds or situations and make conclusion about them. Moreover, users can review through the time all deeds, which they wrote and smile or cry about them. If you want to ask me some questions, do it! 
+<h2>Features</h2>
 
-<div class="panel-heading bg-white-only b-light b-b font-bold ">
-<h2 class="h4 font-bold">Features</h2>
-</div>
-<div class="panel-body item-description text-md text-wordbreak">
-<ul>
-<li>Pattern Lock Screen</li>
-<li>Material Design</li>
-<li>Change&nbsp;Pattern Lock function</li>
-<li>AdMob (2 Interstitial&nbsp;Ads)</li>
-<li>RateThisApp&nbsp;Window</li>
-<li>NightMode</li>
-<li>Password</li>
-  <li>Clean Code</li>
-<li>ShareButton</li>
-<li>Support about using and reskinning</li>
-</ul>
-</div>
+- Add bad and good deeds;
+- Set password for app;
+- Attach emogies to deeds;
+- Write deeds description;
+- Improve yourself;
+
+<h2>Technologies</h2>
+
+- Android Studio;
+- Kotlin;
+- Material Design;
+- Room database;
+- RecycleView;
+- PatternLockView;
+- SharedPreferences;
+- Dark theme;
+- Share App feature;
+- AdMob;
